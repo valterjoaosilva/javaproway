@@ -16,11 +16,11 @@ public class Exerc05Maioridade {
                 }else{
                     System.out.println("Menor de idade");
                 }
-                id.close();
+                
 
 
         }
-        
+        id.close();
         
     }
 }
