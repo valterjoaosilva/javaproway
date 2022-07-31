@@ -19,6 +19,6 @@ public class Exerc03media {
 
         System.out.println("O consumo médio é: "+ consumoMedio + " km/lt ");
 
-
+        sc.close();
     }
 }

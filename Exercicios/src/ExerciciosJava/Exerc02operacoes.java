@@ -28,7 +28,7 @@ public class Exerc02operacoes {
         System.out.println("multiplicação de: " + numero1 +" x "+ numero2 +" = " + mult );
         System.out.println("divisão de: " + numero2 +" : "+ numero1 +" = " + divi );
 
-
+        n.close();
 
     }
 }

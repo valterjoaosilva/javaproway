@@ -20,5 +20,6 @@ public class Exerc01soma {
         soma = numero1 + numero2;
 
         System.out.println("A soma de: "+ numero1 +" + " + numero2 +" = "+soma );
+        n.close();
     }
 }
